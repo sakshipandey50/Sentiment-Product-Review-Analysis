@@ -53,6 +53,16 @@ streamlit run app.py
 * Word cloud visualization
 * Advanced analytics dashboard
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/home_page.png)
+
+### Sentiment Analysis Results
+
+![Sentiment Summary](screenshots/sentiment_summary.png)
+
 ## Author
 
 Sakshi Pandey
